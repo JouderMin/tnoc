@@ -20,7 +20,7 @@ export default defineConfig({
         link: "/序",
       },
       {
-        text: "LaTeX笔记",
+        text: "微积分笔记",
         items: [],
       },
     ],
@@ -36,4 +36,5 @@ export default defineConfig({
   },
   srcDir: "./doc",
   base: "/tnoc/",
+  assetsDir: "/img",
 });
