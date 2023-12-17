@@ -36,5 +36,4 @@ export default defineConfig({
   },
   srcDir: "./doc",
   base: "/tnoc/",
-  assetsDir: "/img",
 });
