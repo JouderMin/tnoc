@@ -30,8 +30,8 @@ export default defineConfig({
     ],
 
     footer: {
-      message: "Released under the CC-BY-NC-SA 4.0 License.",
-      copyright: "Copyright © 2023 Jouder Min",
+        message: "This work is released under CC0 License.",
+        copyright: "Pulic Domain"
     },
   },
   srcDir: "./doc",
