@@ -15,5 +15,8 @@
     "markdown-it": "^14.1.0",
     "vitepress": "^1.1.4"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "mermaid": "^10.9.1",
+    "vitepress-plugin-mermaid": "^2.0.16"
+  }
 }
