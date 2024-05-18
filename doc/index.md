@@ -11,11 +11,11 @@ hero:
       link: /序
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: 笔记正在施工中···
+    details: Work in progress...
+  - title: 笔记正在施工中···
+    details: Work in progress...
+  - title: 笔记正在施工中···
+    details: Work in progress...
 ---
 
