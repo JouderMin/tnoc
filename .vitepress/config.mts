@@ -6,6 +6,7 @@ import { imgSize } from "@mdit/plugin-img-size";
 import { imgLazyload } from "@mdit/plugin-img-lazyload";
 import { align } from "@mdit/plugin-align";
 import { withMermaid } from "vitepress-plugin-mermaid";
+import { spoiler } from "@mdit/plugin-spoiler";
 
 // https://vitepress.dev/reference/site-config
 export default withMermaid(
@@ -89,6 +90,7 @@ export default withMermaid(
         md.use(imgSize);
         md.use(figure);
         md.use(align);
+        md.use(spoiler);
       },
     },
     locales: { root: { label: "Chinese", lang: "zh" } },

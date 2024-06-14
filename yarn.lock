@@ -339,6 +339,13 @@
     "@types/markdown-it" "^14.1.1"
     katex "0.16.10"
 
+"@mdit/plugin-spoiler@^0.12.0":
+  version "0.12.0"
+  resolved "https://registry.npmmirror.com/@mdit/plugin-spoiler/-/plugin-spoiler-0.12.0.tgz#e4d71b5144a97724b0d33fe612d3f7ebf84bccc7"
+  integrity sha512-7yu+Gz000O0OxGnGYOoj77Am3WgH4GwzOvwCp7tPLexkJwTve8MyT9In/NEPFaRw8fmgXwthC0gKq4Ubh1+8DA==
+  dependencies:
+    "@types/markdown-it" "^14.1.1"
+
 "@mdit/plugin-tex@0.12.0":
   version "0.12.0"
   resolved "https://registry.npmmirror.com/@mdit/plugin-tex/-/plugin-tex-0.12.0.tgz#d4b4e51f53d76d6f5707fdb727df083179929122"
