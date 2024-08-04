@@ -5,16 +5,16 @@
     "preview": "vitepress preview"
   },
   "dependencies": {
-    "@mdit/plugin-align": "^0.12.0",
-    "@mdit/plugin-figure": "^0.12.0",
-    "@mdit/plugin-footnote": "^0.12.0",
-    "@mdit/plugin-img-lazyload": "^0.12.0",
-    "@mdit/plugin-img-size": "^0.12.0",
-    "@mdit/plugin-katex": "^0.12.0",
-    "@mdit/plugin-spoiler": "^0.12.0",
-    "katex": "^0.16.10",
+    "@mdit/plugin-align": "^0.13.0",
+    "@mdit/plugin-figure": "^0.13.0",
+    "@mdit/plugin-footnote": "^0.13.0",
+    "@mdit/plugin-img-lazyload": "^0.13.0",
+    "@mdit/plugin-img-size": "^0.13.0",
+    "@mdit/plugin-katex": "^0.13.0",
+    "@mdit/plugin-spoiler": "^0.13.0",
+    "katex": "^0.16.11",
     "markdown-it": "^14.1.0",
-    "vitepress": "^1.2.3"
+    "vitepress": "^1.3.1"
   },
   "devDependencies": {
     "mermaid": "^10.9.1",
